@@ -24,3 +24,9 @@ print(eventsList)
 5. Our array must be saved to LocalStorage 
     (how do you save to local storage in javascript)
 
+
+/Users/joelmartinez/homework/work_day_calendar/Screen Shot 2021-05-03 at 10.14.38 PM.png
+
+/Users/joelmartinez/homework/work_day_calendar/Screen Shot 2021-05-03 at 10.14.42 PM.png
+
+/Users/joelmartinez/homework/work_day_calendar/Screen Shot 2021-05-03 at 10.15.46 PM.png
